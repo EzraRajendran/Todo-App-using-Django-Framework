@@ -3,6 +3,7 @@
 ## Overview
 
 This **Todo App** is a simple web-based application built using the Django framework. It allows users to manage their tasks effectively by adding, editing, deleting, and marking tasks as complete. The project is designed to showcase the fundamental features of Django, including CRUD (Create, Read, Update, Delete) operations and user authentication.
+![image](https://github.com/user-attachments/assets/c06c5c46-638b-4f79-9bc2-a8258856ce75)
 
 ## Features
 
@@ -87,8 +88,6 @@ This **Todo App** is a simple web-based application built using the Django frame
 - Add priority levels for tasks.
 - Implement task categorization.
 - Add reminders and due date notifications.
-- ![image](https://github.com/user-attachments/assets/8c1bfeed-a217-42dc-bd1c-e5a19c6f5031)
-
 
 ## License
 
