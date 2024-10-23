@@ -87,6 +87,8 @@ This **Todo App** is a simple web-based application built using the Django frame
 - Add priority levels for tasks.
 - Implement task categorization.
 - Add reminders and due date notifications.
+- ![image](https://github.com/user-attachments/assets/8c1bfeed-a217-42dc-bd1c-e5a19c6f5031)
+
 
 ## License
 
